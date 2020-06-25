@@ -1,6 +1,6 @@
 # Comparison-of-Regression-Models
 <h1>Project Description</h1>
-<body>Project that centers around working with different types of regression models and observing trends in data. Tested regression models were: Linear Regression, Polynomial Regression(degree=1,2,3), Decision Tree Regression(depth=3,4,5), and Random Forest Regression(depth=1-10).  Each model was tested with varying parameters and results compared and documented.</body>
+<body>Project from my CSC 732: Pattern Recognition and Neural Networks class for the Spring 2020 term at CUNY College of Staten Island; that centers around working with different types of regression models and observing trends in data. Tested regression models were: Linear Regression, Polynomial Regression(degree=1,2,3), Decision Tree Regression(depth=3,4,5), and Random Forest Regression(depth=1-10).  Each model was tested with varying parameters and results compared and documented.</body>
 
 <h1>Datasets Information</h1>
 Two datasets were used: SkillCraft, and Loan.
